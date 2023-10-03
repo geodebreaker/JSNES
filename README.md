@@ -1,2 +1,2 @@
 # JSNES
-One file JavaScript Nintendo Entertainment System emulator
+Crappy one file JavaScript Nintendo Entertainment System emulator
